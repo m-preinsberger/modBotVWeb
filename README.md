@@ -12,3 +12,6 @@ Change the pins to pins that are available to you.
 
 **Step 3** 
 The index.h file contains the website and the main.cpp the rest of the handling.
+
+**Step 4** 
+Change the monitorspeed in your platformio.ini file to the 115200 defined in the Serial.begin(115200);
